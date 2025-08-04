@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(to right, #e0eafc, #cfdef3);
+    font-family: 'Arial', sans-serif;
+}
+h1 {
+    color: #333;
+}
+input {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+    font-size: 16px;
+}
+button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007BFF;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+.link {
+    margin-top: 10px;
+    color: #007BFF;
+    text-decoration: none;
+}
+.link:hover {
+    text-decoration: underline;
+}
